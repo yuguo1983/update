@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<piclist>
+  <图片0>Color(0xFFFFFF)</图片0>
+  <图片1>Flicker(0xFF00FF,0x00FF00)</图片1>
+  <图片2>Flicker(0xFF00FF,0x00FF00)</图片2>
+  <图片3>Picture(1)</图片3>
+  <图片4>GradientRow(0xFFFFFF,8)</图片4>
+  <图片5>Checkerboard(8)</图片5>
+  <图片6>Flicker(0xFF00FF,0x00FF00)</图片6>
+  <图片7>GradientCol(0xFFFFFF,8)</图片7>
+  <图片8>CrossTalk(0xFFFFFF,0x000000)</图片8>
+</piclist>

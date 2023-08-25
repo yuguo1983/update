@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <pix>
+    <HBW>30</HBW>
+    <HFW>30</HFW>
+    <HACT>800</HACT>
+    <HSW>1</HSW>
+    <VBW>28</VBW>
+    <VFW>29</VFW>
+    <VACT>1280</VACT>
+    <VSW>2</VSW>
+    <LCDNAME>test</LCDNAME>
+    <ICNAME>ILI9138</ICNAME>
+    <CODEZIP>SADFAS</CODEZIP>
+    <PCLK>50</PCLK>
+    <MIPILAN>4</MIPILAN>
+    <AENABLE>False</AENABLE>
+    <BENABLE>False</BENABLE>
+    <ALLMODE>1</ALLMODE>
+    <DESET>1:高电平</DESET>
+    <VSSET>1:高电平</VSSET>
+    <HSSET>1:高电平</HSSET>
+    <MIPISWAP>False</MIPISWAP>
+    <ODLR>False</ODLR>
+    <MIPIMODE>0:Non burst mode with sync pulses</MIPIMODE>
+    <DUALPORT>False</DUALPORT>
+    <DELAY> 10 </DELAY>
+    <TimeLock>1</TimeLock>
+    <AlarmFlag>False</AlarmFlag>
+  </pix>
+</DocumentElement>
